@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "JWcj9RVtJggSUTdd1e0EF1iEcYDNabv5vxd8pKfRuJNwNH9pkGGPIYseZNRiY/qvocYd5o7PCQXDRktUwEs97w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ykmw\\Desktop\\PDF-WORDS\\PDF2Word\\PDF2Word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ykmw\\.nuget\\packages\\docx\\2.5.0\\docx.2.5.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\freespire.pdf\\8.6.0\\freespire.pdf.8.6.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\pdfbox\\1.1.1\\pdfbox.1.1.1.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykmw\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Pdfbox 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Pdfbox",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
